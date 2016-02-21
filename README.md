@@ -1,4 +1,4 @@
-# WeatherWidgetAngularJS
+# Weather Widget with AngularJS
 Weather Widget 1.0 for AngularJS
 
 Very easy-to-use widget to show weather forecast, based on AngularJS, using the openweathermap API.
@@ -19,7 +19,7 @@ I have created a little app.html introduction page to show-and-tell the main fea
 
 Adding the widget to your html is ridiculously easy: you just have to add the following line:
 
-`<weather-widget city="London" forecast="3" language="en" activatedemo="1" size="xl"></weather-widget>`
+`<weather-widget city="Dublin" forecast="3" language="en" size="xl"></weather-widget>`
 
 As included in the directive, we can see the following attributes:
 
